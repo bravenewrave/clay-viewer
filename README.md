@@ -5,7 +5,7 @@
 
 ## App
 
-[Download App](https://github.com/pissang/clay-viewer/releases/) on Windows and macOS with FBX/DAE/OBj import and glTF2.0/GLB export. Use it as a common model preview tool!
+[Download App](https://github.com/bravenewrave/clay-viewer/releases/) on Windows and macOS with FBX/DAE/OBj import and glTF2.0/GLB export. Use it as a common model preview tool!
 
 ## Editor
 
